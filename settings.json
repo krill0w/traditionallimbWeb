@@ -1,0 +1,72 @@
+{
+  "metaTitle": "Mingyu Zheng",
+  "metaDescription": "Lesser-spotted bubble tea addict. Currently: social media; previously: infosec, payments, product, web dev etc.",
+  "name": "Mingyu Zheng",
+  "theme": "mingyu",
+  "avatarImage": "https://cdn.glitch.global/52317d40-3b89-487d-a27b-c0d4c39edc4f/mingyu-avatar.jpeg?v=1641750026897",
+  "links": [
+    {
+      "url": "https://www.youtube.com/@zmingyu",
+      "text": "🎹 Music + 🩰 Ballet",
+      "img": ""
+    },
+    {
+      "url": "https://flat.io/mingyu",
+      "text": "🎼 Sheet music",
+      "img": ""
+    },
+    {
+      "url": "https://twitter.com/i/events/1480407899994464257",
+      "text": "💬 Micro stories",
+      "img": ""
+    },
+    {
+      "url": "https://twitter.com/i/events/1480248099587395584",
+      "text": "🎨 Recent work",
+      "img": ""
+    },
+    {
+      "url": "https://www.tiktok.com/@verilylost",
+      "text": "🙊 Silly stuff",
+      "img": ""
+    },
+    {
+      "url": "https://www.boardgamegeek.com/collection/user/mooze",
+      "text": "🗺 Board games",
+      "img": ""
+    },
+    {
+      "url": "https://www.goodreads.com/series/109102-the-chronicles-of-st-mary-s",
+      "text": "📖 Current read",
+      "img": ""
+    },
+    {
+      "url": "https://mingyu.uk/",
+      "text": "🍄 Neglected blog",
+      "img": ""
+    },
+    {
+      "url": "http://web.archive.org/web/20180330201826/http://mingyu.co.uk/",
+      "text": "⏳ Old homepage",
+      "img": ""
+    }
+  ],
+  "social": {
+    "glitch": "https://glitch.com/@zmingyu",
+    "spotify": "",
+    "substack": "",
+    "dev": "",
+    "facebook": "",
+    "github": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/in/zmingyu/",
+    "medium": "",
+    "patreon": "",
+    "pinterest": "",
+    "twitter": "https://twitter.com/zmingyu",
+    "youtube": "https://www.youtube.com/@zmingyu",
+    "twitch": "",
+    "tiktok": "https://www.tiktok.com/@verilylost",
+    "email": ""
+  }
+}
