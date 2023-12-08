@@ -12,3 +12,5 @@
     left:50%;
     transform: translateX(-50%) translateY(-50%);
 }
+
+body { font-family: Renogare; }
