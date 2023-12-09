@@ -13,4 +13,32 @@
     transform: translateX(-50%) translateY(-50%);
 }
 
-body { font-family: Renogare; }
+body { 
+    font-family: Renogare;
+    box-sizing: border-box;
+}
+
+.wrapper {
+    min-height: var(80vh);
+    place-items: center;
+    margin: 3rem 2rem 0;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    max-width: 550px;
+    margin: 0 auto;
+}
+
+.avatar-container {
+    display: flex;
+    justify-content: center;
+}
+
+.avatar {
+    max-width: var(140px);
+    max-height: var(140px);
+    margin: 1rem 0 1.5rem;
+    border-radius: 50%;
+  }
