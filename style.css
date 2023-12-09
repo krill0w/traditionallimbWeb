@@ -19,7 +19,7 @@ body {
 }
 
 .wrapper {
-    min-height: var(80vh);
+    min-height: 80vh;
     place-items: center;
     margin: 3rem 2rem 0;
 }
@@ -37,8 +37,8 @@ body {
 }
 
 .avatar {
-    max-width: var(240px);
-    max-height: var(240px);
+    max-width: 140px;
+    max-height: 140px;
     margin: 1rem 0 1.5rem;
     border-radius: 50%;
   }
