@@ -13,7 +13,7 @@
     transform: translateX(-50%) translateY(-50%);
 }
 
-body { 
+body {
     font-family: Renogare;
     box-sizing: border-box;
 }
@@ -37,8 +37,8 @@ body {
 }
 
 .avatar {
-    max-width: 240px;
-    max-height: 240px;
+    max-width: 100%;
+    max-height: 100%;
     margin: 1rem 0 1.5rem;
     border-radius: 50%;
-  }
+}
