@@ -3,6 +3,8 @@
     src: url(renogare.otf);
 }
 
+body { font-family: Renogare; }
+
 .flex-container {
     display: flex;
     flex-direction: row;
