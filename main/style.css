@@ -18,7 +18,7 @@ body { font-family: Renogare; }
     }
 }
 
-img {
+.round {
     border-radius: 50%;
 }
 
