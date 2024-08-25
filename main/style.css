@@ -1,6 +1,6 @@
 @font-face {
     font-family: Daydream;
-    src: url(/assets/fonts/Daydream.ttf);
+    src: url(/assets/fonts/Daydream.ttf) format('truetype');
 }
 
 body { font-family: Daydream; }
