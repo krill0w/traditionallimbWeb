@@ -1,9 +1,9 @@
 @font-face {
-    font-family: Renogare;
-    src: url(renogare.otf);
+    font-family: Daydream;
+    src: url(/assets/fonts/Daydream.ttf);
 }
 
-body { font-family: Renogare; }
+body { font-family: Daydream; }
 
 .flex-container {
     display: flex;
