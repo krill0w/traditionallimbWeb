@@ -1,4 +1,30 @@
+@font-face {
+    font-family: Daydream;
+    src: url(/assets/fonts/Daydream.ttf) format('truetype');
+}
+
 body {
-    background-color: antiquewhite;
     color: pink;
+    font-family: Daydream;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    max-width: 1180px;
+    margin: 0 auto;
+}
+
+.title {
+    flex: 1 1 50%;
+    padding: 1em;
+    margin-left: 1em;
+    width: 100%;
+    margin: auto auto;
+}
+
+.title-container {
+    max-width: 500px;
+    margin: auto auto;
+    text-align: center;
 }
