@@ -125,3 +125,12 @@ body { font-family: Daydream; }
     font-size: 25px;
     line-height: 33px;
 }
+
+a:hover, a:visited {
+    color: pink;
+}
+
+a {
+    color: pink;
+    text-decoration: none;
+}
