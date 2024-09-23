@@ -4,6 +4,11 @@
 }
 
 body {
+  color: black;
+  font-family:SUSE;
+}
+
+.highlight {
   color: pink;
   font-family: Daydream;
 }
