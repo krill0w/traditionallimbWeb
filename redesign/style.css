@@ -52,3 +52,11 @@ body {
 li {
   float: centre;
 }
+
+a {
+  color: pink;
+}
+
+a:visited {
+  color: pink;
+}
