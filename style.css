@@ -4,15 +4,11 @@
 }
 
 body {
-  color: black;
+  color: white;
   font-family:SUSE;
-  background-image: "/assets/pictures/background.jpg"
+  background-image: url("assets/pictures/background.png")
 }
 
-.highlight {
-  color: pink;
-  font-family: Daydream;
-}
 
 .flex-container {
   display: flex;
@@ -60,9 +56,11 @@ li {
 }
 
 a {
-  color: pink;
+  color: white;
+  text-decoration: none;
 }
 
 a:visited {
-  color: pink;
+  color: white;
+  text-decoration: none;
 }
