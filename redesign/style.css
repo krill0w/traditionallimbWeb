@@ -4,6 +4,11 @@
 }
 
 body {
+  color: black;
+  font-family:SUSE;
+}
+
+.highlight {
   color: pink;
   font-family: Daydream;
 }
@@ -51,4 +56,12 @@ body {
 
 li {
   float: centre;
+}
+
+a {
+  color: pink;
+}
+
+a:visited {
+  color: pink;
 }
