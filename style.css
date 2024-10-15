@@ -48,7 +48,7 @@ body {
   padding: 1em 1em 0em;
   margin-left: 1em;
   display: flex;
-  justify-content: space-between;
+  flex-direction: column;
 }
 
 li {
