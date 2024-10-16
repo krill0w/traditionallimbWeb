@@ -1,11 +1,11 @@
 @font-face {
-  font-family: Daydream;
-  src: url(/assets/fonts/Daydream.ttf) format("truetype");
+  font-family: Lugrasimo;
+  src: url(/assets/fonts/Lugrasimo.ttf) format("truetype");
 }
 
 body {
   color: white;
-  font-family:SUSE;
+  font-family:Lugrasimo;
   background-image: url("assets/pictures/background.png")
 }
 
