@@ -1,0 +1,32 @@
+@font-face {
+  font-family: MassTransit;
+  src: url(/assets/fonts/MassTransitMono.ttf);
+}
+
+
+body {
+  font-family: MassTransit;
+  font-size: 50px;
+  background-color: black;
+  color: white;
+  overflow: hidden;
+}
+
+.container-left {
+  height: 200px;
+  position: top;
+}
+
+.vertical-center {
+  display: inline;
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+.container-right {
+  height: 200px;
+  position: left;
+}
