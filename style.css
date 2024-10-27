@@ -24,7 +24,8 @@ body >div { margin:auto; }
 .subtitle {
   font-size: 50px;
   text-align: center;
-  margin-bottom: 100px;
+  margin-top: 25px;
+  margin-bottom: 90px;
 }
 
 .menu-bar { 
@@ -42,6 +43,7 @@ body >div { margin:auto; }
 li {
   text-align: center;
   list-style: none;
+  padding: 5px;
 }
 
 a, a:visited {
