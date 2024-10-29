@@ -19,6 +19,7 @@ body {
 
 body >div {
   margin:auto;
+  justify-content: center;
 }
 
 .title {
