@@ -18,14 +18,16 @@ body >div { margin:auto; }
 .title {
   font-size: 7vw;
   margin-top: 0;
-  margin-bottom: 25px;
+  margin-bottom: 2.5vh;
+  justify-content: center;
 }
 
 .subtitle {
   font-size: 3.5vw;
   text-align: center;
   margin-top: 25px;
-  margin-bottom: 90px;
+  margin-bottom: 3vh;
+  justify-content: center;
 }
 
 .menu-bar { 
@@ -33,10 +35,12 @@ body >div { margin:auto; }
   padding: 0;
   margin-top: 16px;
   margin-bottom: 26px;
+  justify-content: center;
 }
 
 .hit-counter {
   text-align: center;
+  justify-content: center;
 }
 
 
@@ -60,5 +64,7 @@ li >a:visited {
   color: yellow;
 }
 
-
-
+img {
+  width: 30%;
+  height: auto;
+}
