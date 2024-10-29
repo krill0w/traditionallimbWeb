@@ -17,7 +17,10 @@ body {
   color: white;
 }
 
-body >div { margin:auto; }
+body >div {
+  margin:auto;
+  display: flex;
+}
 
 .title {
   font-size: 7vw;
