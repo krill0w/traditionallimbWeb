@@ -3,6 +3,9 @@
   src: url(/assets/fonts/MassTransitMono.ttf);
 }
 
+* {
+  overflow: hidden;
+}
 
 body {
   display:flex;
@@ -11,8 +14,8 @@ body {
   font-size: 3vw;
   background-color: black;
   color: white;
-  overflow: hidden;
 }
+
 body >div { margin:auto; }
 
 .title {
