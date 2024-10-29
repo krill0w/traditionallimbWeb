@@ -3,7 +3,9 @@
   src: url(/assets/fonts/MassTransitMono.ttf);
 }
 
-
+* {
+  overflow: hidden;
+}
 
 body {
   display:flex;
