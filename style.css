@@ -10,6 +10,7 @@
 body {
   display:flex;
   max-height: 97vh;
+  max-width: 100vw;
   font-family: MassTransit;
   font-size: 3vw;
   background-color: black;
