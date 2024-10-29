@@ -3,49 +3,39 @@
   src: url(/assets/fonts/MassTransitMono.ttf);
 }
 
-* {
-  overflow: hidden;
-}
 
 body {
   display:flex;
-  max-height: 97vh;
+  min-height:100vh;
   font-family: MassTransit;
-  font-size: 3vw;
+  font-size: 50px;
   background-color: black;
   color: white;
-}
-
-body >div {
-  margin:auto;
+  overflow: hidden;
 }
 
 .title {
-  font-size: 7vw;
+  font-size: 100px;
   margin-top: 0;
-  margin-bottom: 2.5vh;
-  justify-content: center;
+  margin-bottom: 25px;
 }
 
 .subtitle {
-  font-size: 3.5vw;
+  font-size: 50px;
   text-align: center;
   margin-top: 25px;
-  margin-bottom: 3vh;
-  justify-content: center;
+  margin-bottom: 90px;
 }
 
-.menu-bar {
-  flex: 1 1 50%;
+.menu-bar { 
+  flex: 1 1 50%; 
   padding: 0;
   margin-top: 16px;
   margin-bottom: 26px;
-  justify-content: center;
 }
 
 .hit-counter {
   text-align: center;
-  justify-content: center;
 }
 
 
@@ -70,6 +60,11 @@ li >a:visited {
 }
 
 img {
-  width: 30%;
+  width: 20%;
   height: auto;
+}
+
+.container {
+  margin: auto;
+  width: 50%;
 }
