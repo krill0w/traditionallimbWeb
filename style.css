@@ -9,7 +9,7 @@
 
 body {
   display:flex;
-  min-height:100vh;
+  height:97vh;
   font-family: MassTransit;
   font-size: 3vw;
   background-color: black;
