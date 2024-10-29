@@ -13,8 +13,7 @@ body {
   color: white;
   overflow: hidden;
 }
-
-body >div { margin:auto; }
+/* body >div { margin:auto; } */
 
 .title {
   font-size: 100px;
@@ -64,4 +63,9 @@ li >a:visited {
 img {
   width: 20%;
   height: auto;
+}
+
+.container {
+  margin: auto;
+  width: 50%;
 }
