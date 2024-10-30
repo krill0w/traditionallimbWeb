@@ -5,45 +5,17 @@
 
 
 body {
-  display:flex;
-  min-height:100vh;
   font-family: MassTransit;
   font-size: 50px;
   background-color: black;
   color: white;
-  overflow: hidden;
-}
-body >div { margin:auto; }
-
-.title {
-  font-size: 100px;
-  margin-top: 0;
-  margin-bottom: 25px;
 }
 
-.subtitle {
-  font-size: 50px;
-  text-align: center;
-  margin-top: 25px;
-  margin-bottom: 90px;
-}
-
-.menu-bar { 
-  flex: 1 1 50%; 
-  padding: 0;
-  margin-top: 16px;
-  margin-bottom: 26px;
-}
-
-.hit-counter {
-  text-align: center;
-}
-
+body >div { margin: 2.5dvb 2.5dvb; }
 
 li {
-  text-align: center;
   list-style: none;
-  padding: 5px;
+  /* padding: 5px; */
 }
 
 a, a:visited {
@@ -60,5 +32,7 @@ li >a:visited {
   color: yellow;
 }
 
-
-
+img {
+  width: 20%;
+  height: auto;
+}
